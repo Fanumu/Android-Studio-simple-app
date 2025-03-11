@@ -107,7 +107,6 @@ public class activitycontainer extends AppCompatActivity {
             @Override
             public void onTabReselected(TabLayout.Tab tab) {
                 // Acción al volver a seleccionar un tab
-                // Puedes agregar alguna lógica si es necesario, o dejarlo vacío.
             }
         });
     }
