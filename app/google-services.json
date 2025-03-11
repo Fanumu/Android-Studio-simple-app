@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336043608644",
+    "project_id": "evaf-8a304",
+    "storage_bucket": "evaf-8a304.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336043608644:android:77a7cf29d20c1f014a4a11",
+        "android_client_info": {
+          "package_name": "com.example.evaf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0lhg52TKaE6LcIdL9dxN4-SGj1eHTlKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
